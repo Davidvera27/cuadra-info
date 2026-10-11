@@ -43,4 +43,4 @@ Si esta política cambia, se actualizará esta página y la fecha de arriba.
 
 ## Contacto
 
-TU_CORREO
+davidrestrepovera@gmail.com
